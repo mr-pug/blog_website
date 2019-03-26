@@ -1,0 +1,28 @@
+body {
+  background-color: #c9ddff;
+}
+.header {
+  text-align: right;background-color: #3a7257; color: #fcd1f9;
+}
+.header > a {
+  margin: 0 10px; text-decoration: none;
+}
+.newpick {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+  margin: 10px;
+}
+.newpick > li {
+  display:inline-block;
+        }
+.pics {
+background-color: #ddd;
+padding:10px;
+height: 190px;
+margin: 30px;
+
+}
+.image {
+  display: block; margin: 0 auto; height: 400px; margin: auto; background-color: #8782bc; padding: 1.5em;
+}
